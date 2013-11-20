@@ -16,3 +16,8 @@ These are the things that it can do right now:
 0. Exit
 
 The cmds folder needs to be in the home directory in order to work properly.
+This is a work in progress, and i add things for time to time as I find things
+that I find helpful. Right now the different functions look and work a little
+different, but work none the less. I take no responsiblity for anything that
+happens to your device that this is used on, use at your own risk. Please
+contribute other funtions or comment on what you would like to see. 
