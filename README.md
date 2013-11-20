@@ -14,3 +14,5 @@ These are the things that it can do right now:
 8. Show Active Network Connections
 9. 2D/3D Dock Change (Mountain Lion and earlier only)
 0. Exit
+
+The cmds folder needs to be in the home directory in order to work properly.
